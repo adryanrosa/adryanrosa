@@ -1,8 +1,11 @@
 <h1>Hey, I'm Adryan<h1>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adryanrosa&count_private=true&hide=stars,issues&show_icons=true&theme=dracula)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=adryanrosa&count_private=true&hide=stars,issues&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryanrosa&theme=dracula" />
+</div>
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adryanrosa&count_private=true&hide=stars,issues&show_icons=true&theme=dracula)
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adryanrosa&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adryanrosa&theme=dracula) -->
 
 <div>
   <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
