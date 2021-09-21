@@ -5,7 +5,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryanrosa&theme=dracula" />
 </div>
 
-#
 
 <div>
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
