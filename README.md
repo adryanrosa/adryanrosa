@@ -1,5 +1,6 @@
-<h1>Hey there,<br>I'm Adryan<h1>
-<h2>You can check my work <a href="https://portfolio-adryanrosa.vercel.app/" target="_blank">at</a></p>
+<h1>Hey there, I'm Adryan<br>
+You can check my work <a href="https://portfolio-adryanrosa.vercel.app/" target="_blank">at</a>
+<h1>
 
 <div>
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
