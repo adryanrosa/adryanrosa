@@ -17,7 +17,7 @@
 </div>
 
 <div>
-  <h2>Contact me</h2><br>
+  <h2>Contact me</h2>
 
   <a href="https://www.linkedin.com/in/adryan-rosa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
