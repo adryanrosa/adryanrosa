@@ -17,9 +17,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryanrosa&layout=compact&theme=dracula" />
 </div>
 
+Contact me<br>
 <div>
-  Contact me<br>
-  
   <a href="https://www.linkedin.com/in/adryan-rosa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
