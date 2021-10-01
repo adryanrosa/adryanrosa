@@ -11,13 +11,18 @@
   <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /><br>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=adryanrosa&hide=stars,issues&count_private=true&show_icons=true&theme=dracula" /><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryanrosa&layout=compact&theme=dracula" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=adryanrosa&hide=stars,issues&count_private=true&show_icons=true&theme=dracula" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryanrosa&layout=compact&theme=dracula" />
+</div>
 
-Contact me<br>
-<a href="https://www.linkedin.com/in/adryan-rosa">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:adryan.lmrosa@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<div>
+  Contact me<br>
+
+  <a href="https://www.linkedin.com/in/adryan-rosa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adryan.lmrosa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
