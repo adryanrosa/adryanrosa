@@ -11,7 +11,7 @@
 </div><br>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=adryanrosa&hide=stars,issues&count_private=true&show_icons=true&theme=dracula" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=adryanrosa&hide=stars,issues&show_icons=true&theme=dracula" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryanrosa&layout=compact&theme=dracula" />
 </div>
 
